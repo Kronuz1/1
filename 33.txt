@@ -1,7 +1,6 @@
 #profile-title: 🥷Kronuz TM
 #support-url: https://t.me/kronuzq
-#announce: Цензура не спасает страну. Она её душит.
-
+#announce: Выше облаков, вне барьеров. Ваш качественный космос!
 vless://d831bcf3-888e-481e-ac69-52f9d68c0cb8@158.160.57.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp&headerType=none#🇳🇱 Нидерланды #01 🪐
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=by.api-yandex.net&fp=firefox&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&sid=0f4dacf62211e75f&type=tcp&headerType=none#🇧🇾 Беларусь #02 🪐
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@top4014184816.mwscdn.ru:443?encryption=none&security=tls&sni=mwscdn.ru&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=top4014184816.mwscdn.ru&path=%2Fws#🇵🇱 Польша #03 🪐
